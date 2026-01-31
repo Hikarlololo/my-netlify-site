@@ -1,0 +1,4 @@
+# Netlify: connect repo at https://app.netlify.com → New site from Git
+[build]
+  publish = "."
+  command = ""
